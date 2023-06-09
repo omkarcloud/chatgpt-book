@@ -1,4 +1,9 @@
-Write Outline for a Book on Useful Chatgpt Prompts
+# Chatgpt Book [Work in Progress]
+## Read it Online
+
+For a best reading experience, read it online at [https://www.omkar.cloud/chatgpt/](https://www.omkar.cloud/chatgpt/).
+
+<!-- Write Outline for a Book on Useful Chatgpt Prompts
 
 Proposed TOC:
 
@@ -105,4 +110,4 @@ How to grow my Height?
 
 - Comedy 
 - Motivation
-
+ -->

@@ -4,13 +4,13 @@ slug: /
 description: Chatgpt Book
 ---
 
-# Introduction
+# Introduction 
 
-## About this book
+## About this book [Work in Progress]
 
 Hi there! I'm Chetan Jain. Pleased to make your acquaintance. 
-
+<!-- 
 
 Tech Writer
 Act as a tech writer. You will act as a creative and engaging technical writer. My first request is "____ ____"
-
+ -->
