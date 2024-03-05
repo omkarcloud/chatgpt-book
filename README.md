@@ -89,9 +89,12 @@ Create a python/typescript function called [] to [do]
 
 Generate a boilerplate [language] code for a [class/module/component] named [name] with the following functionality: [functionality description].
 
-
+Remove bugs in the following python code.
 
 Identify any potential bugs in the following [language] code snippet: [code snippet].
+
+Following Keys Describe the Email Object. Rename Keys to increase user friendliness.
+
 
 
 - Marketing 
