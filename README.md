@@ -1,4 +1,32 @@
-# Chatgpt Book [Work in Progress]
+<p align="center">
+  <img src="https://www.omkar.cloud/images/favicon/prod/favicon-256x256.png" alt="omkar" />
+</p>
+  <div align="center" style="margin-top: 0;">
+  <h1>✨ Chatgpt Book [Work in Progress] ✨</h1>
+</div>
+<em>
+  <h5 align="center">(Programming Language - Python 3)</h5>
+</em>
+<p align="center">
+  <a href="#">
+    <img alt="chatgpt-book forks" src="https://img.shields.io/github/forks/omkarcloud/chatgpt-book?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img alt="Repo stars" src="https://img.shields.io/github/stars/omkarcloud/chatgpt-book?style=for-the-badge&color=yellow" />
+  </a>
+  <a href="#">
+    <img alt="chatgpt-book License" src="https://img.shields.io/github/license/omkarcloud/chatgpt-book?color=orange&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/omkarcloud/chatgpt-book/issues">
+    <img alt="issues" src="https://img.shields.io/github/issues/omkarcloud/chatgpt-book?color=purple&style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://views.whatilearened.today/views/github/omkarcloud/chatgpt-book.svg" width="80px" height="28px" alt="View" />
+</p>
+
+---
+
 ## Read it Online
 
 For a best reading experience, read it online at [https://www.omkar.cloud/chatgpt/](https://www.omkar.cloud/chatgpt/).
